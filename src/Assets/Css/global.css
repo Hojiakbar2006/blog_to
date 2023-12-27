@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgb(174, 196, 255);
+}
+
+#root{
+    width: 350px;
+    height: 640px;
+    background: #fff;
+    /* background: url(../../Assets/image/banner.png); */
+}
+
